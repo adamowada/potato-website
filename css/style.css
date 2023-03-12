@@ -6,9 +6,13 @@ li {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    background-color: ;
+    background-color: darkslategrey;
 }
 
 .navbar li{
     margin: 1rem;
+}
+
+a {
+    color: whitesmoke;
 }
