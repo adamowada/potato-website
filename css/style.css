@@ -21,3 +21,7 @@ a {
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
 }
+
+img {
+    max-height: 30%;
+}
