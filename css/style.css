@@ -16,4 +16,8 @@ li {
 
 a {
     color: whitesmoke;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+    font-family: ;
 }
