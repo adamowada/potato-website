@@ -1,3 +1,10 @@
 li {
     color: green;
+    
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
