@@ -1,5 +1,6 @@
 li {
     color: green;
+    list-style: none;
 }
 
 .navbar {
