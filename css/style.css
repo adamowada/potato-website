@@ -1,10 +1,14 @@
 li {
     color: green;
-    
 }
 
 .navbar {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+    background-color: ;
+}
+
+.navbar li{
+    margin: 1rem;
 }
