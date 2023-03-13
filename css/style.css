@@ -22,6 +22,13 @@ a {
     font-family: 'Courier New', Courier, monospace;
 }
 
-img {
-    height: 10%;
+#potatoes {
+    height: 300px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
